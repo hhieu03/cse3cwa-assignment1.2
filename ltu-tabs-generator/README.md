@@ -73,6 +73,8 @@ Users can generate code output that can be copied and opened in any browser. The
 ## Installation
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/ltu-tabs-generator.git
+git clone https://github.com/hhieu03/cse3cwa-assignment1.2.git
+```
+---
 
 ## CHATGPT SUPPORTED FIX BUG CODE
